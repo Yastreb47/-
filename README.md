@@ -45,3 +45,13 @@ Bash, iptables, сron, nginx, ssl
 Написал скрипт для резервного копирования содержимого директории /var/www на сервере backend1 в архив /srv/backup/YYYY-MM-DD_www.tar.gz, где YYYY-MM-DD - дата запуска скрипта
 Наcтроил crontab, чтобы автоматически запускать этот скрипт раз в сутки в 2 часа ночи
 
+![image](https://user-images.githubusercontent.com/105864840/227736405-cb24a170-70dc-4168-bbdf-cfd5cb9685ec.png)
+
+![image](https://user-images.githubusercontent.com/105864840/227736479-b2327a61-8fe5-4afe-8109-dbf833ea5b0a.png)
+
+![image](https://user-images.githubusercontent.com/105864840/227736491-e964d172-704c-4540-a82c-99cfdaaa396a.png)
+
+![image](https://user-images.githubusercontent.com/105864840/227736495-a0973bf3-544b-4193-a8fe-345ca4e43662.png)
+
+
+
