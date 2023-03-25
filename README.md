@@ -58,5 +58,12 @@ Bash, iptables, сron, nginx, ssl
 
 ![Сертификат Нетология Системный администратор](https://user-images.githubusercontent.com/105864840/227737535-2c6b4fe8-8115-4ed5-89f7-6f56da892b9b.jpg)
 
+![Мониторинг Сертификат](https://user-images.githubusercontent.com/105864840/227738145-dfd03210-f50b-4a95-862f-1761abd21279.jpg)
+
 ![Сертификат Гикбрейнс Программирование](https://user-images.githubusercontent.com/105864840/227737949-89f06b4f-da28-4049-9c73-180e6b8292b2.jpg)
+
+![Гикбрейнс Сертификат Базовые команды в ОС Linux](https://user-images.githubusercontent.com/105864840/227738311-93a26e0d-e9b0-4c36-8e72-71c0beaaf5f2.jpg)
+
+
+Рафаиль Ширьезданов тел. +7 (927) 007-04-18 email: rafail.shir@yandex.ru
 
