@@ -54,4 +54,9 @@ Bash, iptables, сron, nginx, ssl
 ![image](https://user-images.githubusercontent.com/105864840/227736495-a0973bf3-544b-4193-a8fe-345ca4e43662.png)
 
 
+Сертификаты
+
+![Сертификат Нетология Системный администратор](https://user-images.githubusercontent.com/105864840/227737535-2c6b4fe8-8115-4ed5-89f7-6f56da892b9b.jpg)
+
+![Сертификат Гикбрейнс Программирование](https://user-images.githubusercontent.com/105864840/227737949-89f06b4f-da28-4049-9c73-180e6b8292b2.jpg)
 
